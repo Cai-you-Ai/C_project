@@ -1,0 +1,4 @@
+﻿  Miller-Rabin检测算法.c
+C:\Users\21330\Desktop\链表学习\Miller-Rabin检测算法\Miller-Rabin检测算法\Miller-Rabin检测算法.c(57,10): warning C4013: “getMod”未定义；假设外部返回 int
+C:\Users\21330\Desktop\链表学习\Miller-Rabin检测算法\Miller-Rabin检测算法\Miller-Rabin检测算法.c(114,25): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  Miller-Rabin检测算法.vcxproj -> C:\Users\21330\Desktop\链表学习\Miller-Rabin检测算法\x64\Debug\Miller-Rabin检测算法.exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\21330\\Desktop\\\u94FE\u8868\u5B66\u4E60\\2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2AEB5C-BC18-4B64-904C-2CCCD4DD6C11}|2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00\\2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00.vcxproj|C:\\Users\\21330\\Desktop\\\u94FE\u8868\u5B66\u4E60\\2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00\\2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00\\\u6B27\u51E0\u91CC\u5F97\u7B97\u6CD5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF2AEB5C-BC18-4B64-904C-2CCCD4DD6C11}|2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00\\2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00.vcxproj|solutionrelative:2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00\\\u6B27\u51E0\u91CC\u5F97\u7B97\u6CD5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6B27\u51E0\u91CC\u5F97\u7B97\u6CD5.c",
+              "DocumentMoniker": "C:\\Users\\21330\\Desktop\\\u94FE\u8868\u5B66\u4E60\\2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00\\2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00\\\u6B27\u51E0\u91CC\u5F97\u7B97\u6CD5.c",
+              "RelativeDocumentMoniker": "2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00\\\u6B27\u51E0\u91CC\u5F97\u7B97\u6CD5.c",
+              "ToolTip": "C:\\Users\\21330\\Desktop\\\u94FE\u8868\u5B66\u4E60\\2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00\\2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00\\\u6B27\u51E0\u91CC\u5F97\u7B97\u6CD5.c",
+              "RelativeToolTip": "2025122140-\u6731\u6069\u9510-\u5B9E\u9A8C\u4E00\\\u6B27\u51E0\u91CC\u5F97\u7B97\u6CD5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-13T12:13:42.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
